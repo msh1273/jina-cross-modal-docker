@@ -1,1 +1,1 @@
-from msh1273/cross-modal-search:1.0
+from msh1273/cross-modal-search:1.1
